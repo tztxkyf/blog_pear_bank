@@ -17,4 +17,4 @@
 
 ![典型组屋的外侧](./pics/pic4.png)
 
-上传github成功！
+上传github成功！啦啦啦。
